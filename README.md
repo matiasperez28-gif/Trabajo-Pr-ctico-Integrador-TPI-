@@ -268,7 +268,8 @@ Universidad Tecnológica Nacional (UTN)
 El proyecto incluye el documento:
 
 **GESTION_DE_PAISES.pdf**
-
+ 📘 **Documento PDF:**  
+  https://github.com/matiasperez28-gif/Trabajo-Pr-ctico-Integrador-TPI-/blob/main/GESTION%20DE%20PAISES%20.pdf
 En él se desarrollan:
 
 - Introducción.
@@ -302,3 +303,21 @@ En el video se muestra:
 - Ordenamientos.
 - Estadísticas.
 - Persistencia de datos mediante archivos CSV.
+---
+
+# 📄 Documentación
+
+El informe completo del Trabajo Práctico Integrador puede consultarse en el siguiente enlace:
+
+-
+
+El documento incluye:
+
+- Introducción y objetivos.
+- Diseño del sistema.
+- Arquitectura modular.
+- Diagramas de flujo.
+- Explicación de los módulos.
+- Casos de prueba.
+- Validaciones implementadas.
+- Conclusiones.
